@@ -2,14 +2,14 @@
   "users": {
     "2590881061": "Banned User",
     "987654321": "Banned User",
-    "123456789": "Cheating detected",
-    "1122334455": "Exploiting"
+    "123456789": "Banned User",
+    "1122334455": "Banned User"
   },
   "groups": {
     "814522823": "Banned group",
     "34565016": "Banned Group",
-    "99887766": "Exploiting group",
-    "55667788": "Toxic group"
+    "99887766": "Banned Group",
+    "55667788": "Banned Group"
   }
 }
 
