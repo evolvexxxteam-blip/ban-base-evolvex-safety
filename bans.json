@@ -1,4 +1,10 @@
 {
-  "userIds": [12345678, 87654321],
-  "groupIds": [112233, 445566]
+  "users": {
+    "2590881061": "Banned User",
+    "987654321": "Banned User"
+  },
+  "groups": {
+    "814522823": "Banned group",
+    "34565016": "Banned Group"
+  }
 }
