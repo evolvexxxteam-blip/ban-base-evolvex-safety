@@ -1,0 +1,36 @@
+{
+  "bans": {
+    "users": {
+      "987654321": "Banned Account",
+      "1122334455": "Banned Account"
+    },
+    "groups": {
+      "814522823": "Banned Group"
+    }
+  },
+
+  "chat": {
+    "enabled": true,
+    "memoryResetMinutes": 30,
+    "stages": [
+      {
+        "type": "warning",
+        "message": "Watch your language."
+      },
+      {
+        "type": "mute",
+        "duration": 300,
+        "message": "You are muted for 5 minutes."
+      },
+      {
+        "type": "mute",
+        "duration": 600,
+        "message": "You are muted for 10 minutes."
+      },
+      {
+        "type": "lockdown",
+        "message": "Account locked due to repeated violations."
+      }
+    ]
+  }
+}
